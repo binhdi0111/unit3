@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\android-advanced-starter-apps\\LocaleText_start\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-za-rCN\\values-za-rCN.xml",
+            "map": [
+                {
+                    "source": "D:\\android-advanced-starter-apps\\LocaleText_start\\app\\src\\main\\res\\values-za-rCN\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,6,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "106,57,150,308,267",
+                        "endColumns": "42,47,115,57,39",
+                        "endOffsets": "144,100,261,361,302"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,98,146,262,320",
+                        "endColumns": "42,47,115,57,39",
+                        "endOffsets": "93,141,257,315,355"
+                    }
+                }
+            ]
+        }
+    ]
+}

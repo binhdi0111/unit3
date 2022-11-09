@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">帮助</string>
+    <string name="description">牛轧糖是用糖或蜂蜜、烤坚果（杏仁、核桃、开心果、榛子和澳洲坚果很常见）、搅打过的蛋白，有时还有切碎的蜜饯制成的一系列糖果。 它用于各种糖果棒和巧克力。</string>
+    <string name="nougat">牛轧糖包</string>
+    <string name="help_text">如果您需要帮助，请联系我们的支持部门。</string>
+</resources>

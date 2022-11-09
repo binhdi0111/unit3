@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help" translatable="false">trợ giúp</string>
+    <string name="description">" Nougat là một họ bánh kẹo làm từ đường hoặc mật ong, các loại hạt rang (hạnh nhân, óc chó, quả hồ trăn, quả phỉ và hạt mắc ca là phổ biến), lòng trắng trứng đánh bông và đôi khi là trái cây cắt nhỏ. Nó được sử dụng trong nhiều loại kẹo thanh và sôcôla."</string>
+    <string name="nougat">Gói kẹo Nougat</string>
+    <string name="help_text">Nếu bạn cần trợ giúp, hãy liên hệ với Bộ phận hỗ trợ của chúng tôi.</string>
+</resources>
